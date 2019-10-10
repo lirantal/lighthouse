@@ -301,7 +301,7 @@ This section details services that have integrated Lighthouse data. If you're wo
 
 * **[Web Page Test](https://www.webpagetest.org)** — An [open source](https://github.com/WPO-Foundation/webpagetest) tool for measuring and analyzing the performance of web pages on real devices. Users can choose to produce a Lighthouse report alongside the analysis of WebPageTest results.
 
-* **[is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable)** - An [open source](https://github.com/lirantal/is-website-vulnerable) Node.js CLI tool that helps with finding publicly known security vulnerabilities in a website's frontend JavaScript libraries.
+* **[is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable)** - An open source Node.js CLI tool that finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 
 ## Plugins
 
